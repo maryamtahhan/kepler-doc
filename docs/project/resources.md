@@ -40,6 +40,7 @@ No.|Title|Speakers/Authors|Conference|Links
 28|Best-Effort Power Model Serving for Energy Quantification of Cloud Instances|Sunyanan Choochotkaew, Tatsuhiro Chiba, Marcelo Amaral, Rina Nakazawa, Scott Trent, Eun Kyung Lee, Umamaheswari Devi, Tamar Eilam and Huamin Chen|IEEE MASCOTS 2024|TBA
 29|Introduction to Monitoring Long-Term Energy Consumption and Carbon Emission With the SusQL Operator|Scott Trent (IBM)|Sustainability Week Local Meetup Tokyo 2024|[[session]](https://cncj-sustainability-week-japan.sessionize.com/session/724139)
 30|Measuring the Power Consumption and Carbon Emissions of Your Local LLM on Kubernetes|Akiho Miyamura|Sustainability Week Local Meetup Tokyo 2024|[[session]](https://cncj-sustainability-week-japan.sessionize.com/session/735148)
+31|Exploring Kepler's Next Chapter: Achieving Cloud Native Sustainability With MCP Integration|Marco González, Prakash Rao|Open Source Summit Korea 2025|[[video]](https://www.youtube.com/watch?v=Bpe91T-B1ms)
 
 ## Talks/Presentations That Refer to Kepler
 
